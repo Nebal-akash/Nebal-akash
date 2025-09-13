@@ -1,5 +1,5 @@
 # Nebal Akash S
-<h3 align="center">A passionate Machine Learning Engineer from India</h3>
+A passionate Machine Learning Engineer from India
 **`Digital Craftsman (Developer/Saas)`**
 <p align="left">
   <a href="https://github.com/Nebal-akash?tab=followers">
