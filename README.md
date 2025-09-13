@@ -1,4 +1,5 @@
-_# Nebal Akash S
+# Nebal Akash S
+#
 
 A passionate Machine Learning Engineer from India
 **`Digital Craftsman (Developer/Saas)`**
@@ -78,4 +79,4 @@ A passionate Machine Learning Engineer from India
     <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> 
   </a> 
 </p>
-_
+
