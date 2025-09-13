@@ -15,7 +15,7 @@ A passionate Machine Learning Engineer from India
 
 - I’m currently working **TextFlow AI**
 
--  I’m currently learning **Advanced NLP (Transformers, Embeddings, LLM fine-tuning)**
+-  I’m currently learning **NLP,RAG,ML,DL (Transformers, Embeddings, LLM fine-tuning)**
 
 - I’m looking to collaborate **AI Research Projects (NLP, Computer Vision, Generative AI)**
 
