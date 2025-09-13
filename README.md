@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nebal Akash</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 **`Digital Craftsman (Developer/Saas)`**
-   <p align="left">
-     <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+<p align="left">
+  <a href="https://github.com/Nebal-akash?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Nebal-akash?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Nebal-akash?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Nebal-akash?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  </a>
+</p>
+
 - I’m currently working **TextFlow AI**
 
 -  I’m currently learning **Advanced NLP (Transformers, Embeddings, LLM fine-tuning)**
