@@ -1,19 +1,25 @@
 <h1 align="center">Hi 👋, I'm Nebal Akash</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
+**`Digital Craftsman (Developer/Saas)`**
+   <p align="left">
+     <a href="https://github.com/ForrestKnight?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
+- I’m currently working **TextFlow AI**
 
-- 🔭 I’m currently working **TextFlow AI**
+-  I’m currently learning **Advanced NLP (Transformers, Embeddings, LLM fine-tuning)**
 
-- 🌱 I’m currently learning **Advanced NLP (Transformers, Embeddings, LLM fine-tuning)**
+- I’m looking to collaborate **AI Research Projects (NLP, Computer Vision, Generative AI)**
 
-- 👯 I’m looking to collaborate **AI Research Projects (NLP, Computer Vision, Generative AI)**
+-  I’m looking for help with **optimizing ML models for production, reducing hallucinations in LLMs, and handling real-world messy data challenges**
 
-- 🤝 I’m looking for help with **optimizing ML models for production, reducing hallucinations in LLMs, and handling real-world messy data challenges**
+- Ask me about Machine Learning & Deep Learning Natural Language Processing (NLP) Computer Vision AI SaaS development **Machine Learning & Deep Learning Natural Language Processing (NLP) Computer Vision AI SaaS development**
 
-- 💬 Ask me about Machine Learning & Deep Learning Natural Language Processing (NLP) Computer Vision AI SaaS development **Machine Learning & Deep Learning Natural Language Processing (NLP) Computer Vision AI SaaS development**
+- How to reach me **nebalakash@gmail.com**
 
-- 📫 How to reach me **nebalakash@gmail.com**
-
-- ⚡ Fun fact **I train models like chefs cook, but I also enjoy using no-code AI kitchens like Bubble, Make, or AutoML when I want a quick recipe**
+- Fun fact **I train models like chefs cook, but I also enjoy using no-code AI kitchens like Bubble, Make, or AutoML when I want a quick recipe**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
