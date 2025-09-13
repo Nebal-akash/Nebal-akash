@@ -1,5 +1,4 @@
 # 🏄‍♂️Nebal Akash S
-#
 
 A passionate Machine Learning Engineer from India
 **`Digital Craftsman (Developer/Saas)`**
