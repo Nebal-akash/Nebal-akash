@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nebal Akash</h1>
+# Nebal Akash S
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 **`Digital Craftsman (Developer/Saas)`**
 <p align="left">
