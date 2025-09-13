@@ -1,4 +1,5 @@
 # Nebal Akash S
+
 A passionate Machine Learning Engineer from India
 **`Digital Craftsman (Developer/Saas)`**
 <p align="left">
@@ -9,7 +10,7 @@ A passionate Machine Learning Engineer from India
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Nebal-akash?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
   </a>
 </p>
-
+---
 - I’m currently working **TextFlow AI**
 
 -  I’m currently learning **Advanced NLP (Transformers, Embeddings, LLM fine-tuning)**
@@ -27,8 +28,7 @@ A passionate Machine Learning Engineer from India
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
+---
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
